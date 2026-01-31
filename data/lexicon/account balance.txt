@@ -1,0 +1,6 @@
+account balance
+customer id
+transaction failed
+service request
+callback number
+verification code

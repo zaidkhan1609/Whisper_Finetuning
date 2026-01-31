@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+
+data/raw/
+data/processed/
+data/test_audio/
+
+models/
+outputs/
+
+.env
+.DS_Store
